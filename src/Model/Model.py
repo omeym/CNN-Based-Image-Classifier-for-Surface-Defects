@@ -1,3 +1,6 @@
+#Author: Omey Mohan Manyar (manyar@usc.edu)
+#University of Southern California
+
 import tensorflow as tf
 
 from keras import datasets, layers, models
